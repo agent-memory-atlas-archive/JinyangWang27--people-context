@@ -5,6 +5,19 @@ All notable changes to this project are documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/), and this project adheres to
 [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [1.3.0](https://github.com/JinyangWang27/people-context/compare/v1.2.1...v1.3.0) (2026-09-16)
+
+
+### Features
+
+* capture and use shared context through agents (M28.3) ([16c753d](https://github.com/JinyangWang27/people-context/commit/16c753dae89531060ed83c560a634ce89d057f59))
+* capture and use shared context through agents (M28.3) ([#156](https://github.com/JinyangWang27/people-context/issues/156)) ([16c753d](https://github.com/JinyangWang27/people-context/commit/16c753dae89531060ed83c560a634ce89d057f59))
+
+
+### Documentation
+
+* plan editable staging review and local web review (M29, M30) ([#154](https://github.com/JinyangWang27/people-context/issues/154)) ([a0f34ed](https://github.com/JinyangWang27/people-context/commit/a0f34ed8ef36066e312d95f5db5ad752a9525adc))
+
 ## [1.2.1](https://github.com/JinyangWang27/people-context/compare/v1.2.0...v1.2.1) (2026-09-14)
 
 
